@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/goldyrG"><img src="https://api.daily.dev/devcards/v2/wTr8HuOCBai4TGtNOyid6.png?r=6sl&type=default" width="356" alt="GoldyRG's Dev Card"/></a>
+<a href="https://app.daily.dev/goldyrg"><img src="https://api.daily.dev/devcards/v2/wTr8HuOCBai4TGtNOyid6.png?r=6sl&type=default" width="356" alt="GoldyRG's Dev Card"/></a>
 
 
 - 👋 Hi, I’m @GoldyRG
